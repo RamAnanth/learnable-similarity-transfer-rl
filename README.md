@@ -1,6 +1,6 @@
 ## A Learnable Similarity Metric between Tasks with Dynamics Mismatch
 
-Readme file for the code base to help run the specified experiments 
+Code base to help run the specified experiments for the thesis titled "Transfer Reinforcement Learning across tasks with Dynamics Mismatch"
 
 ### Prerequisites
 
